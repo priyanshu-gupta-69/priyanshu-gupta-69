@@ -12,7 +12,7 @@ Learning slowly, building honestly.
 - 📊 Interested in Business Analytics & Finance  
 - 🧠 Believer in fundamentals before frameworks  
 
-I value old-school discipline — clarity, consistency, and patience —  
+I value old-school discipline  clarity, consistency, and patience 
 while preparing for a future shaped by data and intelligent systems.
 
 ---
