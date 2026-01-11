@@ -1,47 +1,61 @@
-# Priyanshu Gupta
+<h1 align="center">Priyanshu Gupta</h1>
 
-Commerce by training. Technology by choice.  
-Learning slowly, building honestly.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=500&lines=Commerce+Student;AI+%26+ML+Learner;Business+Analytics+Enthusiast;Building+foundations+for+the+future" />
+</p>
 
----
-
-## About Me
-
-- 🎓 B.Com (Hons) student, University of Delhi  
-- 🤖 New to AI & Machine Learning  
-- 📊 Interested in Business Analytics & Finance  
-- 🧠 Believer in fundamentals before frameworks  
-
-I value old-school discipline  clarity, consistency, and patience 
-while preparing for a future shaped by data and intelligent systems.
+<p align="center">
+  <sub>Quietly learning. Carefully building.</sub>
+</p>
 
 ---
 
-## What I’m Working On
+### About
 
-- Strengthening Python fundamentals  
-- Learning NumPy, Pandas, and ML basics  
-- Understanding how data drives business decisions  
-
----
-
-## Tools & Skills
-
-- Python (Beginner)  
-- NumPy  
-- Pandas (Learning)  
-- Git & GitHub  
-- VS Code  
-- Google Colab  
+- B.Com (Hons), University of Delhi  
+- Learning AI & Machine Learning  
+- Interested in Finance & Business Analytics  
+- Believes in fundamentals before shortcuts  
 
 ---
 
-## Connect
+### Notes
 
-- 📍 Delhi, India  
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-gupta-937951241  
-- 📧 Email: priyanshuguptadcac@gmail.com  
+> Not everything here is polished.  
+> Growth leaves rough edges.
 
 ---
 
-> Learning in public. Improving in silence.
+### 📌 Philosophy
+
+> Learn the rules deeply — then break them intelligently.
+
+I respect the old ways of thinking: discipline, consistency, fundamentals.  
+But I build for tomorrow — with data, automation, and systems that scale.
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-gupta-69&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-gupta-937951241">LinkedIn</a> ·
+  <a href="mailto:priyanshuguptadcac@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>Learning in public. Improving in silence.</sub>
+</p>
