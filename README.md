@@ -1,16 +1,47 @@
-## Hi there 👋
+# Priyanshu Gupta
 
-<!--
-**priyanshu-gupta-69/priyanshu-gupta-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commerce by training. Technology by choice.  
+Learning slowly, building honestly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 B.Com (Hons) student, University of Delhi  
+- 🤖 New to AI & Machine Learning  
+- 📊 Interested in Business Analytics & Finance  
+- 🧠 Believer in fundamentals before frameworks  
+
+I value old-school discipline — clarity, consistency, and patience —  
+while preparing for a future shaped by data and intelligent systems.
+
+---
+
+## What I’m Working On
+
+- Strengthening Python fundamentals  
+- Learning NumPy, Pandas, and ML basics  
+- Understanding how data drives business decisions  
+
+---
+
+## Tools & Skills
+
+- Python (Beginner)  
+- NumPy  
+- Pandas (Learning)  
+- Git & GitHub  
+- VS Code  
+- Google Colab  
+
+---
+
+## Connect
+
+- 📍 Delhi, India  
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-gupta-937951241  
+- 📧 Email: priyanshuguptadcac@gmail.com  
+
+---
+
+> Learning in public. Improving in silence.
